@@ -1,8 +1,9 @@
 Interpeter (NodeJS Part)
 ====
+Requirements: latest nodejs version
 
 goto /nodejs
-run: docker-compose up
+run: bash test.sh
 It will run unit tests
 
 Becouse it data intensive application I did not use any external libs.
